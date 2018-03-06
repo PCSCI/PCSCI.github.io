@@ -1,0 +1,111 @@
+%!TEX TS-program = xelatex
+\documentclass[]{friggeri-cv}
+\usepackage{xeCJK}
+\CJKsetecglue{}   % 去掉中英文之间的空格
+\newfontfamily{\kaiti}{Adobe Kaiti Std}
+\newfontfamily{\song}{STSong}
+\newfontfamily{\hei}{Adobe Heiti Std}
+\newfontfamily{\fsong}{Adobe Fangsong Std}
+\newfontfamily{\kaibd}{Kaiti SC Bold}
+\defaultfontfeatures{Mapping=tex-text}
+\hyphenation{op-tical net-works semi-conduc-tor}
+
+
+\addbibresource{bibliography.bib}
+
+\begin{document}
+\header{}{彭超}
+       {计算机视觉研究员}
+
+% In the aside, each new line forces a line break
+% 电话: 13121627145
+\begin{aside}
+  \section{联系方式}
+    mikejay0520@163.com
+    \href{http://www.pengchao.org}{www.pengchao.org}
+  \section{研究方向}
+    图像分类
+    物体检测
+    语义分割
+\end{aside}
+
+\section{教育经历}
+\begin{entrylist}
+  \entry
+    {2014-2017}
+    {硕士~~~~清华大学}
+    {北京}
+    {软件工程大数据方向}
+  \entry
+    {2010-2014}
+    {学士~~~~武汉大学}
+    {湖北}
+    {空间信息与数字技术专业}
+\end{entrylist}
+
+
+\section{工作经历}
+\begin{entrylist}
+  \entry
+    {2016.4-至今}
+    {Megvii (Face++)， 北京}
+    {Researcher}
+    {在Megvii实习和工作期间，我主要负责通用物体分割、通用物体检测和图像分类等三个领域的研究和应用落地工作，取得了举世瞩目的成绩。}
+
+\end{entrylist}
+
+\section{获奖经历}
+  \begin{entrylist}
+  \entry
+    {2017.10}
+    {MSCOCO 2017 Challenge}
+    {\href{https://places-coco2017.github.io/}{places-coco2017.github.io}}
+    {在本次比赛中，我们团队获得了通用物体检测和人体骨骼关键点检测两项比赛冠军，通用物体分割亚军。我作为通用物体检测比赛的三名主要贡献者之一，研发了一套基于16台GPU机器集群的MegDet算法，一举夺得了冠军，超过亚军1.7个点，远胜Microsoft、Google、Facebook等公司的参赛队伍。相关工作已经总结投稿于CVPR 2018上。}
+
+    \entry
+    {2016.10}
+    {PASCAL VOC Semantic Segmentation}
+    {\href{http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6}{pascal\_voc\_2012}}
+    {PASCAL VOC 2012是图像语义分割研究中常用的公开数据集，我在Megvii实习期间主要研究如何提高语义分割的极限性能，并于2016.10刷到榜单第一，相关工作已经总结发表在CVPR 2017上。}
+  \end{entrylist}
+
+\section{论文发表}
+\href{https://arxiv.org/pdf/1711.07240.pdf}{MegDet: A Large Mini-Batch Object Detector} \newline
+\textbf{Chao Peng}, Tete Xiao, Zeming Li, Yuning Jiang, Xiangyu Zhang, Kai Jia, Gang Yu, \newline
+Jian Sun \newline
+\emph{CVPR spotlight, 2018}
+
+
+Learning a Discriminative Feature Network for Semantic Segmentation\newline
+Changqian Yu, Jingbo Wang, \textbf{Chao Peng}, Changxin Gao, Gang Yu, Nong Sang
+\newline
+\emph{CVPR, 2018}
+
+
+
+\href{https://arxiv.org/pdf/1711.07264.pdf}{Light-Head R-CNN: In Defense of Two-Stage Object Detector} \newline
+Zeming Li, \textbf{Chao Peng}, Gang Yu, Xiangyu Zhang, Yangdong Deng, Jian Sun  \newline
+\emph{Arxiv, 2017}
+
+
+\href{https://arxiv.org/pdf/1703.02719.pdf}{Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network}
+\textbf{Chao Peng}, Xiangyu Zhang, Gang Yu, Guiming Luo, Jian Sun \newline
+\emph{CVPR, 2017}
+
+
+
+%%% This piece of code has been commented by Karol Kozioł due to biblatex errors. 
+% 
+%\printbibsection{article}{article in peer-reviewed journal}
+%\begin{refsection}
+%  \nocite{*}
+%  \printbibliography[sorting=chronological, type=inproceedings, title={international peer-reviewed conferences/proceedings}, notkeyword={france}, heading=subbibliography]
+%\end{refsection}
+%\begin{refsection}
+%  \nocite{*}
+%  \printbibliography[sorting=chronological, type=inproceedings, title={local peer-reviewed conferences/proceedings}, keyword={france}, heading=subbibliography]
+%\end{refsection}
+%\printbibsection{misc}{other publications}
+%\printbibsection{report}{research reports}
+
+\end{document}
