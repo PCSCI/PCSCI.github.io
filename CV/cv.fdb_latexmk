@@ -1,14 +1,14 @@
 # Fdb version 3
-["biber cv"] 1523502431 "cv.bcf" "cv.bbl" "cv" 1530867978
-  "cv.bcf" 1530867977 94527 ab37af034bd5ee271c4b48a63d97bfa1 ""
+["biber cv"] 1523502431 "cv.bcf" "cv.bbl" "cv" 1533271912
+  "cv.bcf" 1533271911 94527 ab37af034bd5ee271c4b48a63d97bfa1 ""
   (generated)
   "cv.bbl"
   "cv.blg"
-["xdvipdfmx"] 1530867977 "cv.xdv" "cv.pdf" "cv" 1530867978
-  "cv.xdv" 1530867977 26144 554e68fc8f0c0c1dd38b3f4cb5d57999 "xelatex"
+["xdvipdfmx"] 1533271911 "cv.xdv" "cv.pdf" "cv" 1533271912
+  "cv.xdv" 1533271911 26268 becfb4bc0452c6b174f3591f238f964b "xelatex"
   (generated)
   "cv.pdf"
-["xelatex"] 1530867975 "cv.tex" "cv.xdv" "cv" 1530867978
+["xelatex"] 1533271909 "cv.tex" "cv.xdv" "cv" 1533271912
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1480098689 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1480098815 1458 43ab4710dc82f3edeabecd0d099626b2 ""
@@ -157,16 +157,16 @@
   "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1494087824 32646 eadc4ca26cdbe7105ac7c593aa8c4f72 ""
   "/usr/local/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt" 1508665006 3678524 8afe439d828b9ad034c26de397a1839e ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "cv.aux" 1530867977 1098 d12a7d062806d1cd16e464e4056ff820 ""
+  "cv.aux" 1533271911 1098 d12a7d062806d1cd16e464e4056ff820 ""
   "cv.bbl" 1523502434 466 87c763802318ca007e475d2fb9c40fb5 "biber cv"
-  "cv.out" 1530867977 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "cv.run.xml" 1530867977 2328 6ed64dd8dba6e3bddb9f45357a3939d3 ""
-  "cv.tex" 1530867973 4701 27c23531c6c877d9326cd31fa99c7ab6 ""
+  "cv.out" 1533271911 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "cv.run.xml" 1533271911 2328 6ed64dd8dba6e3bddb9f45357a3939d3 ""
+  "cv.tex" 1533271908 4737 a7489fde59d905d39724b6ab4acea29f ""
   "friggeri-cv.cls" 1523502151 6803 de3402a4f8cef51c8d6e364d641d0121 ""
   (generated)
-  "cv.run.xml"
   "cv.log"
-  "cv.bcf"
   "cv.aux"
+  "cv.bcf"
   "cv.xdv"
   "cv.out"
+  "cv.run.xml"
