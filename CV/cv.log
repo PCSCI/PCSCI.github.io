@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.3.17)  14 APR 2019 20:54
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.3.17)  8 SEP 2019 19:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1693,26 +1693,26 @@ Overfull \hbox (1.74997pt too wide) in paragraph at lines 24--24
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 34.
+(Font)              <7> on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 34.
+(Font)              <5> on input line 38.
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--46
+Underfull \hbox (badness 10000) in paragraph at lines 38--50
 
  []
 
 
-Overfull \hbox (16.07874pt too wide) in alignment at lines 49--62
+Overfull \hbox (16.07874pt too wide) in alignment at lines 53--66
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--63
+Underfull \hbox (badness 10000) in paragraph at lines 53--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--85
+Underfull \hbox (badness 10000) in paragraph at lines 69--89
 
  []
 
@@ -1723,11 +1723,11 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 [1
 
 ] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 137.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 137.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
  (./cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 137.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 137.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 141.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 141.
 Package logreq Info: Writing requests to 'cv.run.xml'.
 \openout1 = `cv.run.xml'.
 
@@ -1735,7 +1735,7 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 Here is how much of TeX's memory you used:
  43611 strings out of 493591
  831063 string characters out of 6143546
- 1204120 words of memory out of 5000000
+ 1205120 words of memory out of 5000000
  46544 multiletter control sequences out of 15000+600000
  4344 words of font info for 58 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191

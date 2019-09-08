@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber cv"] 1544063390 "cv.bcf" "cv.bbl" "cv" 1555246454
-  "cv.bcf" 1555246454 92099 a2860570f6f07b10b3da63b074ed84e5 ""
+["biber cv"] 1544063390 "cv.bcf" "cv.bbl" "cv" 1567942256
+  "cv.bcf" 1567942255 92099 a2860570f6f07b10b3da63b074ed84e5 ""
   (generated)
-  "cv.blg"
   "cv.bbl"
-["pdflatex"] 1555246451 "cv.tex" "cv.pdf" "cv" 1555246454
+  "cv.blg"
+["pdflatex"] 1567942253 "cv.tex" "cv.pdf" "cv" 1567942256
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2016/texmf-dist/tex/generic/iftex/iftex.sty" 1365117071 2560 68a7cdbd7a5424fa22f4176117a417e9 ""
@@ -157,16 +157,16 @@
   "/usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf" 1463093894 31953 b9489e6e586f798610c60aec1f5ec548 ""
   "/usr/local/texlive/2016/texmf-var/web2c/xetex/xelatex.fmt" 1489717990 3520371 7a459ba3ab55fd7661fb627e5e99e64a ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "cv.aux" 1555246454 1098 d12a7d062806d1cd16e464e4056ff820 ""
+  "cv.aux" 1567942255 1098 d12a7d062806d1cd16e464e4056ff820 ""
   "cv.bbl" 1544063392 466 fbca89dc3e3cb765908de4b0f2010489 "biber cv"
-  "cv.out" 1555246453 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "cv.run.xml" 1555246454 2328 6ed64dd8dba6e3bddb9f45357a3939d3 ""
-  "cv.tex" 1555246450 5847 a7a62b2a192b9c043ce2ee36b26405c6 ""
+  "cv.out" 1567942255 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "cv.run.xml" 1567942255 2328 6ed64dd8dba6e3bddb9f45357a3939d3 ""
+  "cv.tex" 1567942250 5914 0a2dc3af9d3156d00025990326dc79eb ""
   "friggeri-cv.cls" 1544063608 6804 cc4190173f1b831598fc2d3f5e0cf224 ""
   (generated)
-  "cv.log"
-  "cv.aux"
-  "cv.out"
   "cv.bcf"
   "cv.run.xml"
   "cv.pdf"
+  "cv.log"
+  "cv.aux"
+  "cv.out"
